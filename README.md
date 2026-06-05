@@ -73,15 +73,3 @@
     * *Mã nguồn:* [Source Code](https://github.com/duchuyx321/LearnEnglish)
 
 ---
-
-### 📊 Thống kê GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=duchuyx321&show_icons=true&theme=radical&locale=vi" alt="Thống kê GitHub của Huy" />
-  <br><br>
-  <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=duchuyx321&layout=compact&theme=radical&locale=vi" alt="Ngôn ngữ sử dụng nhiều nhất" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/badgecounter/gallery.svg?username=duchuyx321&color=blue&style=flat-square" alt="Số lượt truy cập" />
-</p>
