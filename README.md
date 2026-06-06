@@ -19,7 +19,7 @@
 ---
 
 ### 👨‍💻 Bản thân mình
-- 🎓 **Học vấn:** Sinh viên chuyên ngành Kỹ thuật Phần mềm tại Đại học Duy Tân (Tốt nghiệp: Tháng 9/2026).
+- 🎓 **Học vấn:** Đã tốt nghiệp chuyên ngành Công Nghệ Thông Tin.
 - 💡 **Đam mê:** Xây dựng hệ thống backend có khả năng mở rộng, tối ưu hóa hiệu năng cơ sở dữ liệu và tích hợp AI để giải quyết các bài toán thực tế.
 - 🚀 **Kinh nghiệm:** Có kinh nghiệm thực chiến phát triển ứng dụng web và làm việc hiệu quả trong môi trường đội ngũ theo mô hình Scrum (với vai trò Lập trình viên Fullstack & Scrum Master).
 ---
